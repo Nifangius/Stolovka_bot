@@ -1,1 +1,1 @@
-web: python csv.py
+bot: python3 csv.py
